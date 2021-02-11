@@ -1,0 +1,12 @@
+# ignore big data files
+
+*.fasta
+*.fastq
+*.fastq.gz
+*.phr
+*.psq
+*.gz
+*.fa
+*.fasta.gz
+./blast-db/
+.Rproj.user
